@@ -109,11 +109,6 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 
 ## 🚀 Past Projects
- bldc.png                 mic.png            smart_key.png
-'current injection.png'   motor_driver.png   watercontroller.png
- diy_xmega.jpg            rescue.png
- fpga.png                 small_robot.png
-
 
 
 ### Project 1: [Rescuer robot]
@@ -129,7 +124,7 @@ helped me develop strong teamwork, problem-solving, and project management skill
 ---
 
 ### Project 2: [Small size soccer league]
-![A test circuit was built to evaluate the health of the MOSFETs in a BLDC motor driver.](images/pastProjects/small_robot.png)  
+![A test circuit was built to evaluate the health of the MOSFETs in a BLDC motor driver.](images/pastProjects/bldc.png)  
 **Description:** I worked for one year in the Parsian Small Size Robot League, contributing to several projects focused
 on robotic system development. In one of my key projects, I designed and built a BLDC MOSFET
 driver tester. This device emulated hall sensor signals to the main controller and monitored the
@@ -154,6 +149,43 @@ includes a dedicated pin header for connecting an I²C LCD module.
 speed of a DC motor. The system captures encoder pulses with interrupts, making it possible to
 adjust the speed in real-time based on the feedback. A single MOSFET handles the motor driving.
 
+### Project 5: [Small robot circuit]
+![Circuit designed for a small robot](images/pastProjects/small_robot.png)  
+**Description:** I designed a control board circuit featuring multiple key components for efficient motor and sensor
+management. The board is equipped with IR receivers placed around it, which are connected to a
+multiplexer for reading multiple IR sensors through a single microcontroller pin. This setup enables
+precise position detection and obstacle sensing. A motor driver, although initially problematic, is
+included for controlling motor speed and direction. To power the board, a 5V switching regulator
+(LM2576) is used for high efficiency, while an AMS1117 linear regulator provides 3.3V for powering
+components like the NRF24L01+ wireless module.
+
+### Project 6: [FPGA extension board]
+![FPGA extension board](images/pastProjects/fpga.png)  
+**Description:** I designed an extension board for the Xilinx Spartan-6 FPGA as part of a logic circuit lab for student
+use.
+
+
+
+### Project 7: [Smart Faucet circuit]
+![Smart Faucet circuit](images/pastProjects/watercontroller.png)  
+**Description:** Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display fea-
+tures, and motor control.
+
+
+### Project 8: [Microphone frequency response obtainer]
+![Hardware and software (PyQt) designed for obtaining the frequency response of a micro-phone](images/pastProjects/mic.png)  
+**Description:** Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display fea-
+tures, and motor control.
+
+
+### Project 9: [Smart key]
+![Smart key](images/pastProjects/smart_key.png)  
+**Description:** A smart touch key with wireless capability..
+
+
+### Project 10: [Current injection]
+![Current injection circuit](images/pastProjects/current injection.png)  
+**Description:** A Howland current injection circuit for a bio-impedance project.
 
 
 
