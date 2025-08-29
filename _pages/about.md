@@ -106,3 +106,55 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 
 ---
+
+
+## 🚀 Past Projects
+ bldc.png                 mic.png            smart_key.png
+'current injection.png'   motor_driver.png   watercontroller.png
+ diy_xmega.jpg            rescue.png
+ fpga.png                 small_robot.png
+
+
+
+### Project 1: [Rescuer robot]
+![Rescuer robot build for national Robocup competition (3rd place)](images/pastProjects/rescue.png)  
+**Description:** I participated in the IranOpen RoboCup Junior Rescue competition, where I worked as part of a
+team to design, build, and program an autonomous robot capable of navigating obstacle courses and
+simulating rescue operations. Our robot was equipped with sensors to detect lines, avoid obstacles,
+and identify hazardous areas, requiring real-time decision-making and precise movement control.
+Throughout the competition, I gained valuable hands-on experience in robotics engineering, coding,
+and sensor integration. Working under strict time constraints and in a highly competitive environment
+helped me develop strong teamwork, problem-solving, and project management skills.
+
+---
+
+### Project 2: [Small size soccer league]
+![A test circuit was built to evaluate the health of the MOSFETs in a BLDC motor driver.](images/pastProjects/small_robot.png)  
+**Description:** I worked for one year in the Parsian Small Size Robot League, contributing to several projects focused
+on robotic system development. In one of my key projects, I designed and built a BLDC MOSFET
+driver tester. This device emulated hall sensor signals to the main controller and monitored the
+corresponding MOSFET outputs to verify correct operation. The tester helped diagnose faults in the
+motor driver by ensuring each MOSFET responded accurately to simulated input conditions.
+
+---
+
+### Project 3: [Customized XMEGA evaluation board]
+![Customized XMEGA evaluation board](images/pastProjects/diy_xmega.jpg)  
+**Description:** I designed and built a customized development board based on an XMEGA microcontroller. The
+board includes multiple user-friendly interfaces for rapid prototyping and testing: multi-turn poten-
+tiometers for ADC input, LEDs and push buttons connected to GPIOs, and pin headers for PWM
+signal output. It features an LM2576 5V switching regulator and an AMS1117 3.3V linear regulator
+to provide stable voltage supplies. For communication, a USB-to-Serial converter IC is integrated
+under the pin headers, enabling easy interfacing with the XMEGA’s USART. Additionally, the board
+includes a dedicated pin header for connecting an I²C LCD module.
+
+### Project 4: [PID motor controller]
+![PID motor controller with optical encoder](images/pastProjects/motor_driver.jpg)  
+**Description:** I used an optical encoder and the interrupt features of the XMEGA microcontroller to control the
+speed of a DC motor. The system captures encoder pulses with interrupts, making it possible to
+adjust the speed in real-time based on the feedback. A single MOSFET handles the motor driving.
+
+
+
+
+---
