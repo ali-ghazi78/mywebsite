@@ -112,10 +112,12 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 ## 🚀 Past Projects
 
+## 🚀 Past Projects
+
 <!-- Project 1 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 1: Rescuer Robot
+    <strong>Rescuer Robot</strong><br>
     I participated in the IranOpen RoboCup Junior Rescue competition, where I worked as part of a
     team to design, build, and program an autonomous robot capable of navigating obstacle courses and
     simulating rescue operations. Our robot was equipped with sensors to detect lines, avoid obstacles,
@@ -130,9 +132,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 2 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 2: Small Size Soccer League
+    <strong>Small Size Soccer League</strong><br>
     I worked for one year in the Parsian Small Size Robot League, contributing to several projects focused
     on robotic system development. In one of my key projects, I designed and built a BLDC MOSFET
     driver tester. This device emulated hall sensor signals to the main controller and monitored the
@@ -145,9 +147,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 3 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 3: Customized XMEGA Evaluation Board
+    <strong>Customized XMEGA Evaluation Board</strong><br>
     I designed and built a customized development board based on an XMEGA microcontroller. The
     board includes multiple user-friendly interfaces for rapid prototyping and testing: multi-turn potentiometers for ADC input, LEDs and push buttons connected to GPIOs, and pin headers for PWM
     signal output. It features an LM2576 5V switching regulator and an AMS1117 3.3V linear regulator
@@ -161,9 +163,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 4 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 4: PID Motor Controller
+    <strong>PID Motor Controller</strong><br>
     I used an optical encoder and the interrupt features of the XMEGA microcontroller to control the
     speed of a DC motor. The system captures encoder pulses with interrupts, making it possible to
     adjust the speed in real-time based on the feedback. A single MOSFET handles the motor driving.
@@ -174,9 +176,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 5 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 5: Small Robot Circuit
+    <strong>Small Robot Circuit</strong><br>
     I designed a control board circuit featuring multiple key components for efficient motor and sensor
     management. The board is equipped with IR receivers placed around it, which are connected to a
     multiplexer for reading multiple IR sensors through a single microcontroller pin. This setup enables
@@ -191,9 +193,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 6 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 6: FPGA Extension Board
+    <strong>FPGA Extension Board</strong><br>
     I designed an extension board for the Xilinx Spartan-6 FPGA as part of a logic circuit lab for student
     use.
   </div>
@@ -203,9 +205,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 7 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 7: Smart Faucet Circuit
+    <strong>Smart Faucet Circuit</strong><br>
     Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display features,
     and motor control.
   </div>
@@ -215,9 +217,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 8 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 8: Microphone Frequency Response Obtainer
+    <strong>Microphone Frequency Response Obtainer</strong><br>
     Hardware and software (PyQt) designed for obtaining the frequency response of a microphone.
   </div>
   <div style="flex: 1;">
@@ -226,9 +228,9 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 9 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 9: Smart Key
+    <strong>Smart Key</strong><br>
     A smart touch key with wireless capability.
   </div>
   <div style="flex: 1;">
@@ -237,17 +239,15 @@ Because of this wide range of experience, I’m confident in roles that require 
 </div>
 
 <!-- Project 10 -->
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    ### Project 10: Current Injection
+    <strong>Current Injection</strong><br>
     A Howland current injection circuit for a bio-impedance project.
   </div>
   <div style="flex: 1;">
     <img src="images/pastProjects/current injection.png" alt="Current injection circuit" style="width:100%; border-radius: 8px;">
   </div>
 </div>
-
-
 
 
 
