@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- # About Me -->
 
-I’m **Seyed Ali Ghazi Asgar**, a Ph.D. student in Electrical and Computer Engineering at **Texas A&M University**.  
+I’m **Seyed Ali Ghazi Asgar**, a forth year Ph.D. student in Electrical and Computer Engineering at **Texas A&M University**.  
 I work across different fields like embedded systems, machine learning, and cybersecurity, with projects ranging from IoT and CPS security to wearable devices, biomedical signal processing, and hardware design.
   
 What makes me different? **I can do many different things!**  I’ve been designing PCBs, circuits, and programming microcontrollers since high school. Over the years I’ve added skills in 3D printing, control systems, signal processing, and machine learning. I can move between hardware, software, and data-driven models, and I love bringing them together into real, working technologies.  
