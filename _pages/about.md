@@ -110,82 +110,144 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 ## 🚀 Past Projects
 
+## 🚀 Past Projects
 
-### Project 1: [Rescuer robot]
-![Rescuer robot build for national Robocup competition (3rd place)](images/pastProjects/rescue.png)  
-**Description:** I participated in the IranOpen RoboCup Junior Rescue competition, where I worked as part of a
-team to design, build, and program an autonomous robot capable of navigating obstacle courses and
-simulating rescue operations. Our robot was equipped with sensors to detect lines, avoid obstacles,
-and identify hazardous areas, requiring real-time decision-making and precise movement control.
-Throughout the competition, I gained valuable hands-on experience in robotics engineering, coding,
-and sensor integration. Working under strict time constraints and in a highly competitive environment
-helped me develop strong teamwork, problem-solving, and project management skills.
+<!-- Project 1 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 1: Rescuer Robot
+    I participated in the IranOpen RoboCup Junior Rescue competition, where I worked as part of a
+    team to design, build, and program an autonomous robot capable of navigating obstacle courses and
+    simulating rescue operations. Our robot was equipped with sensors to detect lines, avoid obstacles,
+    and identify hazardous areas, requiring real-time decision-making and precise movement control.
+    Throughout the competition, I gained valuable hands-on experience in robotics engineering, coding,
+    and sensor integration. Working under strict time constraints and in a highly competitive environment
+    helped me develop strong teamwork, problem-solving, and project management skills.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/rescue.png" alt="Rescuer robot" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
----
+<!-- Project 2 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 2: Small Size Soccer League
+    I worked for one year in the Parsian Small Size Robot League, contributing to several projects focused
+    on robotic system development. In one of my key projects, I designed and built a BLDC MOSFET
+    driver tester. This device emulated hall sensor signals to the main controller and monitored the
+    corresponding MOSFET outputs to verify correct operation. The tester helped diagnose faults in the
+    motor driver by ensuring each MOSFET responded accurately to simulated input conditions.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/bldc.png" alt="BLDC motor driver tester" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
-### Project 2: [Small size soccer league]
-![A test circuit was built to evaluate the health of the MOSFETs in a BLDC motor driver.](images/pastProjects/bldc.png)  
-**Description:** I worked for one year in the Parsian Small Size Robot League, contributing to several projects focused
-on robotic system development. In one of my key projects, I designed and built a BLDC MOSFET
-driver tester. This device emulated hall sensor signals to the main controller and monitored the
-corresponding MOSFET outputs to verify correct operation. The tester helped diagnose faults in the
-motor driver by ensuring each MOSFET responded accurately to simulated input conditions.
+<!-- Project 3 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 3: Customized XMEGA Evaluation Board
+    I designed and built a customized development board based on an XMEGA microcontroller. The
+    board includes multiple user-friendly interfaces for rapid prototyping and testing: multi-turn potentiometers for ADC input, LEDs and push buttons connected to GPIOs, and pin headers for PWM
+    signal output. It features an LM2576 5V switching regulator and an AMS1117 3.3V linear regulator
+    to provide stable voltage supplies. For communication, a USB-to-Serial converter IC is integrated
+    under the pin headers, enabling easy interfacing with the XMEGA’s USART. Additionally, the board
+    includes a dedicated pin header for connecting an I²C LCD module.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/diy_xmega.jpg" alt="Customized XMEGA board" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
----
+<!-- Project 4 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 4: PID Motor Controller
+    I used an optical encoder and the interrupt features of the XMEGA microcontroller to control the
+    speed of a DC motor. The system captures encoder pulses with interrupts, making it possible to
+    adjust the speed in real-time based on the feedback. A single MOSFET handles the motor driving.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/motor_driver.png" alt="PID motor controller" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
-### Project 3: [Customized XMEGA evaluation board]
-![Customized XMEGA evaluation board](images/pastProjects/diy_xmega.jpg)  
-**Description:** I designed and built a customized development board based on an XMEGA microcontroller. The
-board includes multiple user-friendly interfaces for rapid prototyping and testing: multi-turn poten-
-tiometers for ADC input, LEDs and push buttons connected to GPIOs, and pin headers for PWM
-signal output. It features an LM2576 5V switching regulator and an AMS1117 3.3V linear regulator
-to provide stable voltage supplies. For communication, a USB-to-Serial converter IC is integrated
-under the pin headers, enabling easy interfacing with the XMEGA’s USART. Additionally, the board
-includes a dedicated pin header for connecting an I²C LCD module.
+<!-- Project 5 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 5: Small Robot Circuit
+    I designed a control board circuit featuring multiple key components for efficient motor and sensor
+    management. The board is equipped with IR receivers placed around it, which are connected to a
+    multiplexer for reading multiple IR sensors through a single microcontroller pin. This setup enables
+    precise position detection and obstacle sensing. A motor driver, although initially problematic, is
+    included for controlling motor speed and direction. To power the board, a 5V switching regulator
+    (LM2576) is used for high efficiency, while an AMS1117 linear regulator provides 3.3V for powering
+    components like the NRF24L01+ wireless module.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/small_robot.png" alt="Small robot circuit" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
-### Project 4: [PID motor controller]
-![PID motor controller with optical encoder](images/pastProjects/motor_driver.jpg)  
-**Description:** I used an optical encoder and the interrupt features of the XMEGA microcontroller to control the
-speed of a DC motor. The system captures encoder pulses with interrupts, making it possible to
-adjust the speed in real-time based on the feedback. A single MOSFET handles the motor driving.
+<!-- Project 6 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 6: FPGA Extension Board
+    I designed an extension board for the Xilinx Spartan-6 FPGA as part of a logic circuit lab for student
+    use.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/fpga.png" alt="FPGA extension board" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
-### Project 5: [Small robot circuit]
-![Circuit designed for a small robot](images/pastProjects/small_robot.png)  
-**Description:** I designed a control board circuit featuring multiple key components for efficient motor and sensor
-management. The board is equipped with IR receivers placed around it, which are connected to a
-multiplexer for reading multiple IR sensors through a single microcontroller pin. This setup enables
-precise position detection and obstacle sensing. A motor driver, although initially problematic, is
-included for controlling motor speed and direction. To power the board, a 5V switching regulator
-(LM2576) is used for high efficiency, while an AMS1117 linear regulator provides 3.3V for powering
-components like the NRF24L01+ wireless module.
+<!-- Project 7 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 7: Smart Faucet Circuit
+    Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display features,
+    and motor control.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/watercontroller.png" alt="Smart Faucet circuit" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
-### Project 6: [FPGA extension board]
-![FPGA extension board](images/pastProjects/fpga.png)  
-**Description:** I designed an extension board for the Xilinx Spartan-6 FPGA as part of a logic circuit lab for student
-use.
+<!-- Project 8 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 8: Microphone Frequency Response Obtainer
+    Hardware and software (PyQt) designed for obtaining the frequency response of a microphone.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/mic.png" alt="Microphone frequency response" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
+
+<!-- Project 9 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 9: Smart Key
+    A smart touch key with wireless capability.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/smart_key.png" alt="Smart key" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
+
+<!-- Project 10 -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
+  <div style="flex: 1; padding-right: 20px;">
+    ### Project 10: Current Injection
+    A Howland current injection circuit for a bio-impedance project.
+  </div>
+  <div style="flex: 1;">
+    <img src="images/pastProjects/current injection.png" alt="Current injection circuit" style="width:100%; border-radius: 8px;">
+  </div>
+</div>
 
 
-
-### Project 7: [Smart Faucet circuit]
-![Smart Faucet circuit](images/pastProjects/watercontroller.png)  
-**Description:** Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display fea-
-tures, and motor control.
-
-
-### Project 8: [Microphone frequency response obtainer]
-![Hardware and software (PyQt) designed for obtaining the frequency response of a micro-phone](images/pastProjects/mic.png)  
-**Description:** Designed a smart faucet circuit with wireless communication, touch sensor capabilities, display fea-
-tures, and motor control.
-
-
-### Project 9: [Smart key]
-![Smart key](images/pastProjects/smart_key.png)  
-**Description:** A smart touch key with wireless capability..
-
-
-### Project 10: [Current injection]
-![Current injection circuit](images/pastProjects/current injection.png)  
-**Description:** A Howland current injection circuit for a bio-impedance project.
 
 
 
