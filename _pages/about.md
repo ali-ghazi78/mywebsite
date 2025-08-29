@@ -16,6 +16,9 @@ I’ve been designing PCBs, circuits, and programming microcontrollers since hig
 
 I enjoy solving complex problems, looking at them from different angles, and connecting ideas across disciplines. I’m always ready to take on new challenges and build creative solutions that make an impact.  
 
+
+Because of this wide range of experience, I’m confident in roles that require embedded system design, firmware development, IoT and CPS security, biomedical device innovation, and machine learning applications. I don’t just specialize in one area—I bring together skills in hardware, software, and ML to deliver complete, practical solutions. This makes me well-suited for R&D teams, startups, or industry positions where adaptability and interdisciplinary thinking are key.  
+
 ---
 
 ## 🎓 Education
