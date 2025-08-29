@@ -239,7 +239,7 @@ Because of this wide range of experience, I’m confident in roles that require 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 1; padding-right: 20px;">
     <strong>Current Injection</strong><br>
-    A Howland current injection circuit designed for a bio-impedance project. The system includes an LCD display and a button interface for easy control and monitoring. It is capable of performing **double injection**, allowing two separate current signals to be injected simultaneously for more advanced bio-impedance measurements. This setup provides precise and reliable current injection, making it ideal for experimental and wearable bioimpedance applications.
+    A Howland current injection circuit designed for a bio-impedance project. The system includes an LCD display and a button interface for easy control and monitoring. It is capable of performing double injection, allowing two separate current signals to be injected simultaneously for more advanced bio-impedance measurements. This setup provides precise and reliable current injection, making it ideal for experimental and wearable bioimpedance applications.
   </div>
   <div style="flex: 1;">
     <img src="images/pastProjects/current injection.png" alt="Current injection circuit" style="width:100%; border-radius: 8px;">
