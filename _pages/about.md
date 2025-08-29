@@ -9,6 +9,7 @@ redirect_from:
 <!-- # About Me -->
 
 I’m **Seyed Ali Ghazi Asgar**, a forth year Ph.D. student in Electrical and Computer Engineering at **Texas A&M University**.  
+
 I work across different fields like embedded systems, machine learning, and cybersecurity, with projects ranging from IoT and CPS security to wearable devices, biomedical signal processing, and hardware design.
   
 What makes me different? **I can do many different things!**  I’ve been designing PCBs, circuits, and programming microcontrollers since high school. Over the years I’ve added skills in 3D printing, control systems, signal processing, and machine learning. I can move between hardware, software, and data-driven models, and I love bringing them together into real, working technologies.  
@@ -44,14 +45,18 @@ Because of this wide range of experience, I’m confident in roles that require 
 1. **Seyed Ali Ghazi Asgar, Narasimha Reddy.**  
    *Analysis of Misconfigured IoT MQTT Deployments and a Lightweight Exposure Detection System*  
    *NDSS Symposium (SDIoTSec Workshop), 2025*  
-
+   [Paper Link](https://www.ndss-symposium.org/wp-content/uploads/sdiotsec25-10.pdf
+   )
+   
 2. **Seyed Ali Ghazi Asgar, K. Sel, A. Paul, R. I. Pettigrew, R. Jafari.**  
    *Cuffless Blood Pressure Estimation Using Magnetic Flux in a Ring Form Factor*  
    *ICASSP 2024 – IEEE International Conference on Acoustics, Speech and Signal Processing*  
+   [Paper Link](https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/3/246/files/2024/04/Ali_ICASSP_24-e5d401defb55bcce.pdf) <!-- Replace with actual link if available -->
 
 3. **K. Sel, Seyed Ali Ghazi Asgar, D. Osman, P. Wu, R. Jafari.**  
    *Wearable Bioimpedance Sensor Characterization for Blood Flow Monitoring*  
    *IEEE BioCAS 2023 – Biomedical Circuits and Systems Conference*  
+   [Paper Link](https://bpb-us-e1.wpmucdn.com/sites.mit.edu/dist/3/246/files/2024/04/Kaan_BioCAS_2023-8f7f19b13debb61c.pdf)
 
 ---
 
