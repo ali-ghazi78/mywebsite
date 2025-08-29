@@ -72,7 +72,7 @@ I enjoy solving complex problems, looking at them from different angles, and con
 ---
 
 ## 💼 Professional Experience
-- **DevOps Engineer – BRTECH (2021–2022)**  
+- **DevOps Engineer  (2021–2022)**  
   Worked on automation, networking, and cloud infrastructure using **Docker, Kubernetes, and Linux-based systems**.  
 
 - **Lab Supervisor – Texas A&M University (2022–2023)**  
@@ -99,11 +99,5 @@ I enjoy solving complex problems, looking at them from different angles, and con
 - Member of **Ezhei High School Robotic Team** (2015–2016).  
 - Leader and Instructor of Robotics Group (2017).  
 
----
-
-## 📬 Contact
-- 📧 Email: [alighazi@tamu.edu](mailto:alighazi@tamu.edu)  
-- 🔗 GitHub: [github.com/ali-ghazi78](https://github.com/ali-ghazi78)  
-- 📞 Phone: (+1) 979-220-3198  
 
 ---
