@@ -18,15 +18,6 @@ I enjoy solving complex problems, looking at them from different angles, and con
 
 
 Because of this wide range of experience, I’m confident in roles that require embedded system design, firmware development, IoT and CPS security, biomedical device innovation, and machine learning applications. I don’t just specialize in one area—I bring together skills in hardware, software, and ML to deliver complete, practical solutions. This makes me well-suited for R&D teams, startups, or industry positions where adaptability and interdisciplinary thinking are key.  
-
----
-
-## 🎓 Education
-- **Ph.D. in Electrical and Computer Engineering** – Texas A&M University, USA (2022–Present)  
-  *GPA: 4.0/4.0*  
-- **B.Sc. in Biomedical Engineering** – AmirKabir University of Technology, Tehran, Iran (2017–2022)  
-  *Ranked 2nd out of 100 students, GPA: 3.94/4.0*
-
 ---
 
 ## 🔬 Research Interests
@@ -40,12 +31,15 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 ---
 
-## 🛠️ Skills
-- **Programming**: Python, C/C++, Matlab, Verilog, Lua, SQL, Arduino  
-- **Software/Tools**: Altium Designer, LT-Spice, Proteus, Xilinx ISE, SolidWorks, stm32CubeIDE, CodeVision AVR, Atmel Studio, COMSOL  
-- **Other Expertise**: DSP, MQTT, FPGA, Raspberry Pi, STM32, Robotics, Control Systems, Linux, Git, Docker, Kubernetes, PLC, Socket Programming, PID, RPC Programming  
+
+## 🎓 Education
+- **Ph.D. in Electrical and Computer Engineering** – Texas A&M University, USA (2022–Present)  
+  *GPA: 4.0/4.0*  
+- **B.Sc. in Biomedical Engineering** – AmirKabir University of Technology, Tehran, Iran (2017–2022)  
+  *Ranked 2nd out of 100 students, GPA: 3.94/4.0*
 
 ---
+
 
 ## 📚 Publications
 1. **Seyed Ali Ghazi Asgar, Narasimha Reddy.**  
@@ -81,6 +75,12 @@ Because of this wide range of experience, I’m confident in roles that require 
 
 ---
 
+## 🛠️ Skills
+- **Programming**: Python, C/C++, Matlab, Verilog, Lua, SQL, Arduino  
+- **Software/Tools**: Altium Designer, LT-Spice, Proteus, Xilinx ISE, SolidWorks, stm32CubeIDE, CodeVision AVR, Atmel Studio, COMSOL  
+- **Other Expertise**: DSP, MQTT, FPGA, Raspberry Pi, STM32, Robotics, Control Systems, Linux, Git, Docker, Kubernetes, PLC, Socket Programming, PID, RPC Programming  
+
+---
 ## 🚀 Selected Projects
 - **Malware Detection with Machine Learning** – Designed ML models using binary/static features (Cybersecurity).  
 - **Tiny Twitter Application with gRPC** – Implemented distributed systems communication (Networking).  
