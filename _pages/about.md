@@ -85,7 +85,7 @@ Because of this wide range of experience, I’m confident in roles that require 
 - **Other Expertise**: DSP, MQTT, FPGA, Raspberry Pi, STM32, Robotics, Control Systems, Linux, Git, Docker, Kubernetes, PLC, Socket Programming, PID, RPC Programming  
 
 ---
-## 🚀 Selected Projects
+## 🚀 Course Projects
 - **Malware Detection with Machine Learning** – Designed ML models using binary/static features (Cybersecurity).  
 - **Tiny Twitter Application with gRPC** – Implemented distributed systems communication (Networking).  
 - **Protein-Protein Docking with ML** – Built an energy-based model (Bioinformatics).  
@@ -108,9 +108,6 @@ Because of this wide range of experience, I’m confident in roles that require 
 ---
 
 
-## 🚀 Past Projects
-
-## 🚀 Past Projects
 
 ## 🚀 Past Projects
 
